@@ -1,0 +1,1 @@
+collection of utility functions and classes to make common tasks easier
